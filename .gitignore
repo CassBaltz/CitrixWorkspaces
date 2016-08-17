@@ -1,0 +1,12 @@
+#   git config --global core.excludesfile '~/.gitignore_global'
+
+# Ignore bundler config.
+output
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+
+# Dependency directories
+node_modules
