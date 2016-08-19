@@ -67,9 +67,15 @@ h3.category-header > span {
   border-radius: 2px;
 }
 
-
 div.hidden {
   display: none;
+}
+
+h3.no-match {
+  font-size: 18px;
+  padding: 15px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .active {

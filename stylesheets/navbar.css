@@ -52,13 +52,6 @@ div.other-nav > img{
   vertical-align: center;
 }
 
-h3.no-match {
-  font-size: 18px;
-  padding: 15px;
-  margin: 0 auto;
-  text-align: center;
-}
-
 ::-webkit-input-placeholder {
    color: white;
 }
